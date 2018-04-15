@@ -1,3 +1,4 @@
+*.nc
 umat
 vcal
 vfind
@@ -15,9 +16,7 @@ xI_sa.ps
 *.exe
 fort.*
 ferret.jnl
-*~
-*.nc 
-
+*~ 
 iused_idx.dat
 lininit
 mapinit
