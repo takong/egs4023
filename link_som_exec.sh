@@ -2,6 +2,7 @@
 #dir="/home/takong/methodology/SOM/som_pak-3.1"
 dir="/home/roland/takong/methodology/SOM/som_pak-3.1"
 #dir="/home/roland/Postprocess/soms/som_pak-3.2"
+dir="./som_pak-3.1"
 
 ln -sf $dir/lininit .
 ln -sf $dir/mapinit .
